@@ -1,2 +1,8 @@
 First Git File
 Adding a second line 
+This line was added from GitHub directly
+
+
+
+
+update note.txt from GitHub
